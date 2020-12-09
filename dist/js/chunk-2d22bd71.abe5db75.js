@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d22bd71"],{f14d:function(e,n,l){"use strict";l.r(n);var t=function(){var e=this,n=e.$createElement,l=e._self._c||n;return l("div",{staticClass:"page-hello"},[l("h1",[e._v("收藏和历史页面的首页")]),l("router-view")],1)},a=[],c={name:"Hello"},s=c,u=l("c701"),o=Object(u["a"])(s,t,a,!1,null,null,null);n["default"]=o.exports}}]);
+//# sourceMappingURL=chunk-2d22bd71.abe5db75.js.map

@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d21f841"],{d9c9:function(n,e,t){"use strict";t.r(e);var c=function(){var n=this,e=n.$createElement;n._self._c;return n._m(0)},l=[function(){var n=this,e=n.$createElement,t=n._self._c||e;return t("div",{staticClass:"page-login"},[t("h1",[n._v("登陆")])])}],a={name:"login"},s=a,i=t("c701"),r=Object(i["a"])(s,c,l,!1,null,null,null);e["default"]=r.exports}}]);
+//# sourceMappingURL=chunk-2d21f841.10a329ec.js.map

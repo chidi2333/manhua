@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d216d3d"],{c3b9:function(e,t,n){"use strict";n.r(t);var c=function(){var e=this,t=e.$createElement;e._self._c;return e._m(0)},r=[function(){var e=this,t=e.$createElement,n=e._self._c||t;return n("div",{staticClass:"page-register"},[n("h1",[e._v("注册页面")])])}],s={name:"Register"},a=s,i=n("c701"),l=Object(i["a"])(a,c,r,!1,null,null,null);t["default"]=l.exports}}]);
+//# sourceMappingURL=chunk-2d216d3d.a5c815b7.js.map
